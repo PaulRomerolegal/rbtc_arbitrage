@@ -4,9 +4,10 @@ A Ruby gem for executing arbitrage between different Bitcoin exchanges. Supports
 
 - Bitstamp
 - CampBX
-- BTC-E
+- ~~BTC-E~~ (deprecated)
 - Coinbase
 - ~~MtGox~~ (deprecated)
+
 
 ## Meta
 
